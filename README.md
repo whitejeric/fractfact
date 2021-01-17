@@ -13,6 +13,6 @@ ex.
   </div>
   
 ### results
-due to the fact that a reduced solution of any length yields the prime factorization of a given $k$ the problem is NP complete and therefore (especially a brute force solution such as this script) finding such $k$'s is going to take a bit of time... 
+due to the fact that a reduced solution of any length yields the prime factorization of a given $k$ the problem is NP complete and therefore (especially a brute force solution such as this script) finding such $k$'s is going to take some time... 
 
 ### ex. output (fraction-factor-iter.py):
