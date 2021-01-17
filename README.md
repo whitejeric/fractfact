@@ -13,31 +13,6 @@ ex.
   </div>
   
 ### results
-due to the fact that a reduced solution of any length yields the prime factorization of a given *k* the problem is NP complete and therefore (especially a brute force solution such as this script) finding such *k*'s takes quite a bit of time... 
-
-### ex. output (fraction-factor-iter.py):
------GOAL:1-----
-
-range=2 to 24
-8388608
-ahh!
-['1.0', '0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0', '(3/2) (4/3) (5/4) (6/5) (6/7) (7/8) (8/9) (9/10) (10/11) (11/12) (12/13) (13/14) (14/15) (15/16) (16/17) (17/18)  = 1.0, epsilon=0.000009032', 'multiple count=16']
-ahh!
-['1.0', '0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0', '(3/2) (4/3) (4/5) (5/6) (6/7) (7/8)  = 1.0, epsilon=0.000000000', 'multiple count=6']
-8388608
------GOAL:2-----
-
-range=3 to 24
-8388608
-ahh!
-['2.0', '0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0', '(4/3) (5/4) (6/5)  = 2.0, epsilon=0.333333333', 'multiple count=3']
-8388608
------GOAL:3-----
-
-range=4 to 24
-8388608
-ahh!
-['3.0', '0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0', '(5/4) (6/5) (7/6) (8/7) (9/8) (10/9) (11/10) (12/11)  = 3.0, epsilon=0.250000000', 'multiple count=8']
-8388608
------GOAL:4-----
+due to the fact that a reduced solution of any length yields the prime factorization of a given *k* the problem is NP complete and therefore (especially a brute force solution such as this script) finding such *k*'s takes quite a bit of time... <br/>
+sampleprogram output in fractresults.txt
 
