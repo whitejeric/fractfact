@@ -14,5 +14,5 @@ ex.
   
 ### results
 due to the fact that a reduced solution of any length yields the prime factorization of a given *k* the problem is NP complete and therefore (especially a brute force solution such as this script) finding such *k*'s takes quite a bit of time... <br/>
-sampleprogram output in fractresults.txt
+sample program output in *fractresults.txt*
 
