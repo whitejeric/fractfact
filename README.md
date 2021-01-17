@@ -11,6 +11,8 @@ ex.
 <div align="center">
 <a href="https://www.codecogs.com/eqnedit.php?latex=2&space;=&space;(\frac{4}{3})(\frac{5}{4})(\frac{6}{5})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?2&space;=&space;(\frac{4}{3})(\frac{5}{4})(\frac{6}{5})" title="2 = (\frac{4}{3})(\frac{5}{4})(\frac{6}{5})" /></a>
   </div>
+  
 ### results
 due to the fact that a reduced solution of any length yields the prime factorization of a given $k$ the problem is NP complete and therefore (especially a brute force solution such as this script) finding such $k$'s is going to take a bit of time... 
+
 ### ex. output (fraction-factor-iter.py):
