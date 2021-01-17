@@ -13,7 +13,7 @@ ex.
   </div>
   
 ### results
-due to the fact that a reduced solution of any length yields the prime factorization of a given *k* the problem is NP complete and therefore (especially a brute force solution such as this script) finding such *k*'s takes quite a bit of time... <br/>
+due to the fact that a reduced solution of any length yields the prime factorization of a given *k* the problem is NP complete and therefore (especially a brute force solution such as this script) finding such *k*'s takes quite a bit of time... <br/> <br/>
 
-#####sample program output in *resultsfract.txt*
+sample program output in *resultsfract.txt*
 
