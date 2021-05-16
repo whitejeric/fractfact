@@ -6,7 +6,7 @@ pair of brute force scripts written out of interest in finding minimal length ra
 <a href="https://www.codecogs.com/eqnedit.php?latex=\prod_{i=&space;k&space;&plus;&space;1}^{j}&space;(\frac{i}{i&plus;1})^{s_i}&space;=&space;k" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\prod_{i=&space;k&space;&plus;&space;1}^{j}&space;(\frac{i}{i&plus;1})^{s_i}&space;=&space;k" title="\prod_{i= k + 1}^{j} (\frac{i}{i+1})^{s_i} = k" /></a>
 </div>
 
-ie. a factorization of a given integer *k* presented as a product of flip signed rationals with both numerator and denominator increasing by 1 starting at *k+1*. <br/>
+ie. a factorization of a given integer *k* presented as a product of "flipped" signed rationals with both numerator and denominator increasing by 1 starting at *k+1*. <br/>
 ex. 
 <div align="center">
 <a href="https://www.codecogs.com/eqnedit.php?latex=2&space;=&space;(\frac{4}{3})(\frac{5}{4})(\frac{6}{5})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?2&space;=&space;(\frac{4}{3})(\frac{5}{4})(\frac{6}{5})" title="2 = (\frac{4}{3})(\frac{5}{4})(\frac{6}{5})" /></a>
