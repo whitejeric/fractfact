@@ -8,9 +8,12 @@ pair of brute force scripts written out of interest in finding minimal length ra
 
 ie. a factorization of a given integer *k* presented as a product of "flipped" signed rationals with both numerator and denominator increasing by 1 starting at *k+1*. <br/>
 ex. 
-<div align="center">
+<div align="center" style="color:blue">
 <a href="https://www.codecogs.com/eqnedit.php?latex=2&space;=&space;(\frac{4}{3})(\frac{5}{4})(\frac{6}{5})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?2&space;=&space;(\frac{4}{3})(\frac{5}{4})(\frac{6}{5})" title="2 = (\frac{4}{3})(\frac{5}{4})(\frac{6}{5})" /></a>
   </div>
+ plaintext: 2 = (4/3) * (5/4) * (6/5)
+ 
+ plaintext: 3 = (5/4) * (6/5) * (7/6) * (8/7) * (9/8) * (10/9) * (11/10) * (12/11)
   
 ### results
 due to the fact that a reduced solution of any length yields the prime factorization of a given *k* the problem is NP complete and therefore (especially a brute force solution such as this script) finding such *k*'s takes quite a bit of time... <br/> <br/>
