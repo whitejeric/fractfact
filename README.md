@@ -1,5 +1,5 @@
 ## fractfact
-pair of brute force scripts written out of interest in finding minimal length rational factorizations of integers, *k*, st.: <br/>
+A pair of brute force scripts written out of interest in finding minimal length rational factorizations of integers, *k*, st.: <br/>
 <div align="center">
 <a href="https://www.codecogs.com/eqnedit.php?latex=k,&space;i&space;\in&space;\mathbb{Z}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?k,&space;i&space;\in&space;\mathbb{Z}" title="k, i \in \mathbb{Z}" /></a> <br/>
 <a href="https://www.codecogs.com/eqnedit.php?latex=s_i&space;\in&space;\{-1,1\}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?s_i&space;\in&space;\{-1,1\}" title="s_i \in \{-1,1\}" /></a> <br/>
